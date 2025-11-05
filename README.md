@@ -1,2 +1,13 @@
-# Entornos de desarrollo DAM-25-26
-En este repositorio estan las notas y ejercicios en general que realizo en clases
+# Entornos de Desarrollo
+
+Repositorio con apuntes y ejercicios relacionados con la configuración y utilización de entornos de desarrollo para programación y otros proyectos.
+
+## Contenido
+- Manuales y tutoriales.
+- Ejercicios prácticos.
+- Configuraciones y herramientas.
+
+## Uso
+Repositorio para facilitar el aprendizaje y manejo de entornos de desarrollo usados en clase.
+
+
