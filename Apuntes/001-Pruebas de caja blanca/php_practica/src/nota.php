@@ -12,12 +12,12 @@ function evaluarNota($nota) {
         return "Aprobado";
     } elseif ($nota >= 3) {
   //ERROR: devuelve algo no esperado en el test
-        return "Suspenso";
+        return "Aprobado";
     }
     // ERROR: este return nunca se prueba
     return "Suspenso";
 }
- 
+
 function mensajeExtra() {
     // FUNCIÓN NO USADA
     return "Función no ejecutada";}

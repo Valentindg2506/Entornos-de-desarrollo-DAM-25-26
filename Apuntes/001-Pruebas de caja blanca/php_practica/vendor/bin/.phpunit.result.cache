@@ -1,1 +1,1 @@
-{"version":2,"defects":{"NotaTest::testSuspenso":7},"times":{"NotaTest::testNotaNegativa":0,"NotaTest::testSobresaliente":0,"NotaTest::testNotable":0,"NotaTest::testAprobado":0,"NotaTest::testSuspenso":0}}
+{"version":2,"defects":{"NotaTest::testSuspenso":7},"times":{"NotaTest::testNotaNegativa":0,"NotaTest::testSobresaliente":0,"NotaTest::testNotable":0,"NotaTest::testAprobado":0,"NotaTest::testSuspenso":0.039}}
